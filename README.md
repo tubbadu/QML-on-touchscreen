@@ -16,3 +16,6 @@ A collection of reusable QML item specifically designed to be used on a touchscr
   * [ ] multiple fingers pinch
   * [ ] swipe from screen edge to the center
 * [ ] change page by swiping left/right (with animation)
+
+
+it would be amazing being able in the future to fork the whole KDE desktop environment to make it completely touchscreen-oriented
